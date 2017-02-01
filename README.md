@@ -25,7 +25,7 @@ Experienced front-end developer based in Blackheath, London. Very little formal 
 
 __FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - Present__
 
-As the sole JS developer for FIS in Canary Wharf, I develop APT EnterpriseUI, part of a suite of Risk Management offerings the Buy-Side Asset Management area of FIS has. Main clients include the large UK retail banks, institutional hedge funds, and other very large asset management companies.
+A UX/UI developer for FIS in Canary Wharf, I develop APT EnterpriseUI, part of a suite of Risk Management offerings the Buy-Side Asset Management area of FIS has. Main clients include the large UK retail banks, institutional hedge funds, and other very large asset management companies.
 
 Using Angular 1.x, Bootstrap, KendoUI on the client side. NodeJS, Sails, Socket.IO, RabbitMQ on the server side. I run the full stack and sit between a diverse team of Java/C/C++ engineers and Business Analysts. Other duties involve integrating with other internal services (authentication), monitoring and managing MySQL performance.
 
