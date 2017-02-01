@@ -3,7 +3,9 @@
 ### London, UK
 
 > [a@zi.vc](mailto:a@zi.vc)
+>
 > 07515349256
+>
 > [Github](http://github.com/zivc)
 
 ### Key Skills
