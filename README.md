@@ -44,6 +44,7 @@ Worked on various projects and site builds, the primary focus being Global {M}. 
 
 
 
+
 __Livestream__ : *Dev lead & Front-End Developer* __July 2013 - June 2014__
 
 Built the IMG DGE when Livestream EMEA was its own entity. Working as a sole FED with 4 Java developers and attended company hackathons in Ukraine.
@@ -54,9 +55,11 @@ Other duties include liaising with a globally distributed team, delegating work,
 
 
 
+
 __Reactive__ : *Permanent Senior Front-End Developer* __February 2013 - July 2013__
 
 Projects: Tesco Real Food, BA High Life, BA Business Life, Newsgator.com, Intelligent Energy UP (portable hydrogen fuel cell). Other duties include liaising with the Managing Director directly to find, interview, and shortlist new developers. Shortly after joining Reactive I was head hunted to join Livestream.
+
 
 
 
@@ -80,15 +83,18 @@ Worked at various companies while I was contracting, doing full site builds for 
 
 
 
+
 __Iris Digital__ : *Permanent Front-End Developer* __January 2010 - August 2011__
 
 Various projects for Sony Ericsson, Volkswagen, Unilever and others
 
 
 
+
 __Candi__ : *Permanent Junior Front-End Developer* __June 2008 - December 2009__
 
 Morrisons, John Lewis Fashion launch
+
 
 
 
