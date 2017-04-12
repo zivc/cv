@@ -25,7 +25,19 @@ Experienced front-end developer based in Blackheath, London. Very little formal 
 
 ### Current Position
 
-__FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - Present__
+__WME-IMG / IMG Gaming__ : *Front-End Developer* __April 2017 - Present__
+
+Rejoined the IMG DGE team, a year after the DGE project was acquired from Livestream. Role now includes various data-driven projects involving real-time sports.
+
+Kicking off a new project that involves white label pay-per-view platform to the UFC, and other sports brands.
+
+
+-----
+
+
+### Full Employment History
+
+__FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - March 2017__
 
 A UX/UI developer for FIS in Canary Wharf, I develop APT EnterpriseUI, part of a suite of Risk Management offerings the Buy-Side Asset Management area of FIS has. Main clients include the large UK retail banks, institutional hedge funds, and other very large asset management companies.
 
@@ -33,10 +45,8 @@ Using Angular 1.x, Bootstrap, KendoUI on the client side. NodeJS, Sails, Socket.
 
 E2E Testing is done using WebDriverIO 3.6.4. Unit testing is done via Bamboo triggering full builds that run a Mocha test suite.
 
-------
 
 
-### Full Employment History
 
 __TOAD__ : *Contract Lead Front-End Developer* __June 2014 - March 2015__
 
