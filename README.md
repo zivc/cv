@@ -9,8 +9,8 @@
 > [Github](http://github.com/zivc)
 
 ### Key Skills
-* HTML5, CSS3, Bootstrap, Bulma, JavaScript, AngularJS, KendoUI
-* NodeJS, SailsJS, Socket.IO, MySQL, Sysadmin
+* HTML5, CSS3, JavaScript
+* NodeJS, MySQL
 * Knowledgeable on a lot more random tech stuff. Enquire within.
 
 ------
