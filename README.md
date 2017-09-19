@@ -10,14 +10,15 @@
 
 ### Key Skills
 * HTML5, CSS3, Bootstrap, Bulma, JavaScript, AngularJS, KendoUI
-* NodeJS, Sails, Socket.IO, MySQL, Sysadmin
+* NodeJS, SailsJS, Socket.IO, MySQL, Sysadmin
+* Knowledgeable on a lot more random tech stuff. Enquire within.
 
 ------
 
 
 ### Profile
 
-Experienced front-end developer based in Blackheath, London. Very little formal education, a whole lot of self-educating. I have a career spanning 10 years for various types of companies and environments including clients from a wide range of industries.
+Experienced front-end developer based in Blackheath, London. Very little formal education, a whole lot of self-educating. I have a career spanning 10 years for various types of companies and environments including clients from a wide range of industries of finance, sports gambling, live streaming, all the way to your run-of-the-mill advertising.
 
 
 ------
