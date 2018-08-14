@@ -13,7 +13,7 @@
 
 ### Current Position
 
-__Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
+__Excelian Ltd__ : *Senior Consultant* __November 2017 - Present__
 
 Worked at Excelian as a Senior Consultant specialising in front-end and Javascript technologies. Was out sourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed additional resource.
 
