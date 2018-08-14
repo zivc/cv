@@ -8,35 +8,31 @@
 >
 > [Github](http://github.com/zivc)
 
-### Key Skills
-* HTML5, CSS3, JavaScript
-* NodeJS, MySQL
-* Knowledgeable on a lot more random tech stuff. Enquire within.
-
-------
-
-
-### Profile
-
-Experienced front-end developer based in Blackheath, London. Very little formal education, a whole lot of self-educating. I am in my tenth year commercially, working for various types of companies and environments from a wide range of industries, such as finance, sports gambling, live streaming, all the way up to your run-of-the-mill ad agency.
-
-
 ------
 
 
 ### Current Position
 
-__WME-IMG / IMG Gaming__ : *Front-End Developer* __April 2017 - Present__
+__Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
-Rejoined the IMG DGE team, a year after the DGE project was acquired from Livestream. Role now includes various data-driven projects involving real-time sports.
+Worked at Excelian as a Senior Consultant specialising in front-end and Javascript technologies. Was out sourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed additional resource.
 
-Kicking off a new project that involves white label pay-per-view platform to the UFC, and other sports brands.
+
 
 
 -----
 
 
 ### Full Employment History
+
+__WME-IMG / IMG Gaming__ : *Front-End Developer* __April 2017 - November 2017__
+
+Rejoined the IMG DGE team, a year after the DGE project was acquired from Livestream. Role now includes various data-driven projects involving real-time sports.
+
+Kicking off a new project that involves white label pay-per-view platform to the UFC, and other sports brands.
+
+
+
 
 __FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - March 2017__
 
