@@ -102,7 +102,8 @@ __guano__ : A small set of PHP scripts that abused Twitter APIs and amassed my a
 
 
 __Sure Men Fast Cash Races (Iris Digital)__ :
-IPM gold award in the category for 'Healthcare, Fashion, Beauty' in 2012. [Case study](https://www.youtube.com/watch?v=b75O6ksyvmw)
+IPM gold award in the category for 'Healthcare, Fashion, Beauty' in 2012.
+[Case Study: https://www.youtube.com/watch?v=b75O6ksyvmw](https://www.youtube.com/watch?v=b75O6ksyvmw)
 
 
 ------
