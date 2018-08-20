@@ -8,13 +8,13 @@
 
 ### Profile
 
-Experienced front-end developer based in SE London. Very little formal education, a whole lot of self-educating. I am in my eleventh year commercially working for various types of companies and environments from a wide range of industries, such as; finance, sports gambling, live streaming, and ad agencies.
+Experienced front-end developer based in SE London. I am in my eleventh year commercially working for various types of companies and environments from a wide range of industries, such as; finance, sports gambling, live streaming, and ad agencies.
 
 ### Previous Position
 
 __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
-As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Typescript in an 'Enterprise' environment. I was outsourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed the additional resource. 
+As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Typescript in an 'enterprise' environment. I was outsourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed the additional resource. 
 
 -----
 
