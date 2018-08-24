@@ -90,10 +90,10 @@ I like tinkering in my spare time, playing with Philips Hue (ZigBee), AWS (Lambd
 __GetDarker__ : 2004-2014 worked with my brother on a platform pushing Dubstep music. Built and managed our own streaming network from scratch, utilising 3gbps of dedicated bandwidth through WOWZA Media Server delivering live 'TV' broadcasts of DJs playing sets to a global audience. In 2004 we streamed RinseFM (at the time was a pirate radio station only available in London) over the Internet to help enable worldwide listeners. 2009 we worked on an audio file sharing service for artists and producers - similar to what SoundCloud has become today. Released various compilation albums over the years and been privileged enough to have thrown many parties around the world as a result.
 
 
+__Trug__ : An IoT device that takes the smart-home to a whole new level of food and waste management using TensorFlow and Python.
+
+
 __guano__ : A small set of PHP scripts that abused Twitter APIs and amassed my account over 100k followers. (Has since declined to 30k).
-
-
-__Trug__ : An IoT device that takes the smart-home to a whole new level of food and waste management, using TensorFlow on a RaspberryPI
 
 
 __sonos-nest-autostart__ : Automatically starts the Sonos when the Nest Camera detects we're home. Stops the music when it detects we are no longer home.
