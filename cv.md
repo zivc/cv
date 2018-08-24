@@ -1,7 +1,7 @@
 # Ash Taylor
 ### Senior JavaScript/Typescript Developer
 
-> [a@zi.vc](mailto:a@zi.vc) | 07515349256 | [Github](http://github.com/zivc)
+> [a@zi.vc](mailto:a@zi.vc) | 07515349256 | [Github @zivc](http://github.com/zivc)
 
 ------
 
