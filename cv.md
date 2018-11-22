@@ -10,6 +10,20 @@
 
 Experienced front-end developer based in SE London. I am in my eleventh year commercially working for various types of companies and environments from a wide range of industries, such as; finance, sports gambling, live streaming, and ad agencies.
 
+
+### Current Position
+
+__Ash Taylor Ltd__ : *Contractor* __October 2018 - Present__
+
+Giving contracting another stab to test the market before contemplating another perm role.
+
+* __Salmon__ : October 2018 - Present
+As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product into 2018. 
+
+ 
+
+-----
+
 ### Previous Position
 
 __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
