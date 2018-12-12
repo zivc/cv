@@ -13,13 +13,14 @@ Experienced front-end developer based in SE London. I am in my eleventh year com
 
 ### Current Position
 
-__Ash Taylor Ltd__ : *Contractor* __October 2018 - Present__
+__Ash Taylor Ltd__ : *Contractor* __October 2018 - December 2018__
 
 Giving contracting another stab to test the market before contemplating another perm role.
 
 * __Salmon__ : October 2018 - Present
-As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product into 2018. 
-
+    As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product into 2018.
+    
+    *Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
  
 
 -----
@@ -30,6 +31,8 @@ __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
 As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Typescript in an 'enterprise' environment. I was outsourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed the additional resource. 
 
+*Tech stack: TypeScript, Angular2, Angular5, RxJS, React, MobX, some Redux, d3,  Bootstrap 4, SASS*
+
 -----
 
 ### Full Employment History
@@ -39,6 +42,8 @@ Rejoined the IMG DGE team, a year after the DGE project was acquired from Livest
 
 In parallel to this, I was working with the team who started a white label pay-per-view platform for sports (EPL, UFC) and TV services (S Sport, Turkey).
 
+*Tech stack: Vanilla JS, AngularJS, MySQL, React, AWS, SASS*
+
 
 __FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - March 2017__
 
@@ -46,20 +51,28 @@ Kicked off the re-design and development of APT EnterpriseUI -  part of a suite 
 
 I worked on the full stack. KendoUI and Angular on the front-end. NodeJS (SailsJS) Socket.IO, RabbitMQ, MySQL on the server side. WebDriverIO and Bamboo for testing.
 
+*Tech stack: Vanilla JS, SailsJS, Node, MySQL, AngularJS, KendoUI, ChartJS, LESS, RabbitMQ, IDP Implementation*
+
 
 __TOAD__ : *Contract Lead Front-End Developer* __June 2014 - March 2015__
 
 Worked on Global {M} website. Built the MVP of a peer-to-peer accumulator style sports gambling application called Play Steak. This was eventually renamed to Goalmouth.
+
+*Tech stack: Vanilla JS, Node, MySQL, Enetpulse (WME IMG DDE), AngularJS, LESS*
 
 
 __Livestream__ : *Dev lead & Front-End Developer* __July 2013 - June 2014__
 
 Worked with IMG to build a Digital Gaming Exchange (DGE) where broadcasters and sports gambling services could purchase rights to individual sports games. Built on Google App Engine, using Angular, d3 and lots of real-time data with PubNub. Spent time working in Ukraine in company hackathons and managing a globally distributed team.
 
+*Tech stack: Vanilla JS, Node, MySQL, Google App Engine, d3, AngularJS, LESS, Bootstrap*
+
 
 __Reactive__ : *Permanent Senior Front-End Developer* __February 2013 - July 2013__
 
 Projects: Tesco Real Food, BA High Life, BA Business Life, Newsgator.com, Intelligent Energy UP (portable hydrogen fuel cell). Other duties include liaising with the Managing Director directly to find, interview, and shortlist new developers. Shortly after joining Reactive I was headhunted to join Livestream.
+
+*Tech stack: Vanilla JS, .NET Environment, LESS*
 
 
 __Guxvu Ltd__ : *Self-Employed* __August 2011 - January 2013__
