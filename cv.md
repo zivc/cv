@@ -31,7 +31,7 @@ __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
 As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Typescript in an 'enterprise' environment. I was outsourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed the additional resource. 
 
-*Tech stack: TypeScript, Angular2, Angular5, RxJS, React, MobX, some Redux, d3,  Bootstrap 4, SASS*
+*Tech stack: TypeScript, Angular2, Angular5, RxJS, React, MobX, some Redux, d3,  Bootstrap 4, SASS, Jest, SinonJS*
 
 -----
 
@@ -42,7 +42,7 @@ Rejoined the IMG DGE team, a year after the DGE project was acquired from Livest
 
 In parallel to this, I was working with the team who started a white label pay-per-view platform for sports (EPL, UFC) and TV services (S Sport, Turkey).
 
-*Tech stack: Vanilla JS, AngularJS, MySQL, React, AWS, SASS*
+*Tech stack: Vanilla JS, AngularJS, MySQL, React, AWS, SASS, Mocha/Karma*
 
 
 __FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - March 2017__
@@ -51,7 +51,7 @@ Kicked off the re-design and development of APT EnterpriseUI -  part of a suite 
 
 I worked on the full stack. KendoUI and Angular on the front-end. NodeJS (SailsJS) Socket.IO, RabbitMQ, MySQL on the server side. WebDriverIO and Bamboo for testing.
 
-*Tech stack: Vanilla JS, SailsJS, Node, MySQL, AngularJS, KendoUI, ChartJS, LESS, RabbitMQ, IDP Implementation*
+*Tech stack: Vanilla JS, SailsJS, Node, MySQL, AngularJS, KendoUI, ChartJS, LESS, RabbitMQ, IDP Implementation, Mocha/Karma*
 
 
 __TOAD__ : *Contract Lead Front-End Developer* __June 2014 - March 2015__
