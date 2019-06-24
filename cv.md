@@ -13,7 +13,7 @@ Experienced front-end developer based in SE London. I am in my eleventh year com
 
 ### Current Position
 
-__Ash Taylor Ltd__ : *Contractor* __October 2018 - Present__
+__Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 
 Giving contracting another stab to test the market before contemplating another perm role.
 
