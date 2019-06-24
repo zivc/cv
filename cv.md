@@ -13,12 +13,18 @@ Experienced front-end developer based in SE London. I am in my eleventh year com
 
 ### Current Position
 
-__Ash Taylor Ltd__ : *Contractor* __October 2018 - December 2018__
+__Ash Taylor Ltd__ : *Contractor* __October 2018 - Present__
 
 Giving contracting another stab to test the market before contemplating another perm role.
 
-* __Salmon__ : October 2018 - Present
-    As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product into 2018.
+* __NatWest Markets__ : February 2019 - Present
+    Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies.
+    
+    *Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
+
+
+* __Salmon__ : October 2018 - December 2018
+    As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product and tech stack into 2019.
     
     *Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
  
