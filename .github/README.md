@@ -18,7 +18,7 @@ __Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 Giving contracting another stab to test the market before contemplating another perm role.
 
 * __NatWest Markets__ : February 2019 - Present
-    Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies.
+    Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies. Primary function of the team was orchestrating the MFA implementation between mobile and server teams via the UI for initial authentication and step-up authentication when authorising payments or adding/amending recipients.
     
     *Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
 
