@@ -19,7 +19,7 @@ Giving contracting another stab to test the market before contemplating another 
 
 * __NatWest Markets__ : __February 2019 - Present__
 
-    Joined the CurrencyPay team, building an application for corporate and private banking retail customers who perform large value transactions in multitudes of currencies. My largest contribution to the project so far has been to understand the impact of an MFA regulatory requirement (SCA) from the BAs and orchestrate this with the mobile and server teams to ensure that we all reach the same goal.
+    Joined the CurrencyPay team, building an application for corporate and private banking retail customers who perform large value transactions in multitudes of currencies. My largest contribution to the project so far has been to understand the impact of an MFA regulatory requirement (SCA) from the BAs and orchestrate this with the mobile and server teams to ensure that we all reach the same business goal.
     
     *Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
 
