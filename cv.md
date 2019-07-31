@@ -17,13 +17,15 @@ __Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 
 Giving contracting another stab to test the market before contemplating another perm role.
 
-* __NatWest Markets__ : February 2019 - Present
-    Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies.
+* __NatWest Markets__ : __February 2019 - Present__
+
+    Joined the CurrencyPay team, building an application for corporate and private banking retail customers who perform large value transactions in multitudes of currencies. My largest contribution to the project so far has been to understand the impact of an MFA regulatory requirement (SCA) from the BAs and orchestrate this with the mobile and server teams to ensure that we all reach the same goal.
     
     *Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
 
 
-* __Salmon__ : October 2018 - December 2018
+* __Salmon__ : __October 2018 - December 2018__
+
     As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product and tech stack into 2019.
     
     *Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
