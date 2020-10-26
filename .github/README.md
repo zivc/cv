@@ -17,7 +17,12 @@ __Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 
 Giving contracting another stab to test the market before contemplating another perm role.
 
-* __NatWest Markets__ : __February 2019 - Present__
+
+* __JP Morgan & Chase__ : __January 2020 - December 2020__
+
+    TBC.
+
+* __NatWest Markets__ : __February 2019 - December 2019__
 
     Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies. The primary function of the team was orchestrating the MFA implementation between mobile and server teams via the UI for initial authentication and step-up authentication when authorising payments or adding/amending recipients.
     
