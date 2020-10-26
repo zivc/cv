@@ -20,7 +20,12 @@ Giving contracting another stab to test the market before contemplating another 
 
 * __JP Morgan & Chase__ : __January 2020 - December 2020__
 
-    TBC.
+    Joined JP Morgan & Chase as a bit of an all rounder for their CIB department. Spent first half of the year understanding restricted markets and drawing out new UIs in Sketch, utilising the companies internal UI Toolkit to reimagine applications for the FX desk.
+    
+    Second half was spent working on the Passive Currency Overlay improving the proof of concept and getting some proper project structure inplace.
+    
+    *Tech stack is React, Sketch, BitBucket*
+    
 
 * __NatWest Markets__ : __February 2019 - December 2019__
 
