@@ -50,9 +50,12 @@ As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Type
 
 *Tech stack: TypeScript, Angular2, Angular5, RxJS, React, MobX, some Redux, d3,  Bootstrap 4, SASS, Jest, SinonJS*
 
+
 -----
 
 ### Full Employment History
+
+
 __WME-IMG / IMG Gaming__ : *Front-End Developer* __April 2017 - November 2017__
 
 Rejoined the IMG DGE team, a year after the DGE project was acquired from Livestream. The role now includes various data-driven projects involving real-time sports.
