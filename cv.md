@@ -11,38 +11,37 @@
 Experienced front-end developer based in SE London. I am in my eleventh year commercially working for various types of companies and environments from a wide range of industries, such as; finance, sports gambling, live streaming, and ad agencies.
 
 
-### Current Position
+### Current Positions
 
 __Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 
-Giving contracting another stab to test the market before contemplating another perm role.
+My own limited company for all assignments outside of IR35.
 
 
-* __JP Morgan & Chase__ : __January 2020 - December 2020__
+__JP Morgan & Chase__ : __January 2020 - December 2020__
 
-    Joined JP Morgan & Chase as a bit of an all rounder for their CIB department. Spent first half of the year understanding restricted markets and drawing out new UIs in Sketch, utilising the companies internal UI Toolkit to reimagine applications for the FX desk.
+Joined JP Morgan & Chase as a bit of an all rounder for their CIB department. Spent first half of the year understanding restricted markets and drawing out new UIs in Sketch, utilising the companies internal UI Toolkit to reimagine applications for the FX desk.
     
-    Second half was spent working on the Passive Currency Overlay improving the proof of concept and getting some proper project structure inplace and working on improving the UX of core functionality
+Second half was spent working on the Passive Currency Overlay improving the proof of concept and getting some proper project structure inplace and working on improving the UX of core functionality
     
-    *Tech stack is JPM UITK, React, Sketch, BitBucket*
-    
-
-* __NatWest Markets__ : __February 2019 - December 2019__
-
-    Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies. The primary function of the team was orchestrating the MFA implementation between mobile and server teams via the UI for initial authentication and step-up authentication when authorising payments or adding/amending recipients.
-    
-    *Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
-
-
-* __Salmon__ : __October 2018 - December 2018__
-    As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product and tech stack into 2019.
-    
-    *Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
- 
+*Tech stack is JPM UITK, React, Sketch, BitBucket*    
 
 -----
 
-### Previous Position
+### Previous Positions
+
+__NatWest Markets__ : __February 2019 - December 2019__
+
+Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies. The primary function of the team was orchestrating the MFA implementation between mobile and server teams via the UI for initial authentication and step-up authentication when authorising payments or adding/amending recipients.
+    
+*Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
+
+
+__Salmon__ : __October 2018 - December 2018__
+
+As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product and tech stack into 2019.
+    
+*Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
 
 __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
@@ -130,7 +129,7 @@ __dotGroup Plc (formerly known as Ellipsis Media)__ : *Permanent Junior Front-En
 
 I like tinkering in my spare time, playing with Philips Hue (ZigBee), AWS (Lambda), and messing about with other services in little projects to continuously improve my skillset. Some of the bigger projects are;
 
-__N/A__ : 2017-present - I built and maintain an anonymous review platform built with React (GatsbyJS), Typescript, Google Maps, Netlify, and AWS Lambda.
+__N/A__ : 2017-2020 - I built and maintain an anonymous review platform built with React (GatsbyJS), Typescript, Google Maps, Netlify, and AWS Lambda.
 
 
 __GetDarker__ : 2004-2014 worked with my brother on a platform pushing Dubstep music. Built and managed our own streaming network from scratch, utilising 3gbps of dedicated bandwidth through WOWZA Media Server delivering live 'TV' broadcasts of DJs playing sets to a global audience. In 2004 we streamed RinseFM (at the time was a pirate radio station only available in London) over the Internet to help enable worldwide listeners. 2009 we worked on an audio file sharing service for artists and producers - similar to what SoundCloud has become today. Released various compilation albums over the years and been privileged enough to have thrown many parties around the world as a result.
