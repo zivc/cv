@@ -18,76 +18,62 @@ __Ash Taylor Ltd__ : *Director* __October 2018 - Present__
 My own limited company for all assignments outside of IR35.
 
 
-__JP Morgan & Chase__ : __January 2020 - December 2020__
 
-Joined JP Morgan & Chase as a bit of an all rounder for their CIB department. Spent first half of the year understanding restricted markets and drawing out new UIs in Sketch, utilising the companies internal UI Toolkit to reimagine applications for the FX desk.
-    
-Second half was spent working on the Passive Currency Overlay improving the proof of concept and getting some proper project structure inplace and working on improving the UX of core functionality
-    
-*Tech stack is JPM UITK, React, Sketch, BitBucket*    
+__Amido__ : *Consultant* __March 2021 - Present__
+
+The Gym Group - Project kick off discovery phase with Amplience CMS and Next.js
+Hackney.gov.uk - Single SPA microservices front-end with React
+
 
 -----
 
 ### Previous Positions
 
+
+__JP Morgan & Chase__ : __January 2020 - December 2020__
+
+CIB Restricted Markets (FX desk) - Prototyping and sketching UI/UX solutions as proposals to new systems for the trading of restricted currencies.
+CIB Passive Currency Overlay - Re-architected the front-end project for PCO removing bad practices and increasing performance with React.
+
+
 __NatWest Markets__ : __February 2019 - December 2019__
 
-Joined the CurrencyPay team, building applications for corporate and private banking retail customers who perform large volume transactions in multitudes of currencies. The primary function of the team was orchestrating the MFA implementation between mobile and server teams via the UI for initial authentication and step-up authentication when authorising payments or adding/amending recipients.
-    
-*Tech stack is React, Redux, Sagas, Bulma, Gitlab, hosted on GCP.* 
+CurrencyPay - implemented MFA for users of online banking FX application, plus house keeping on other areas of the CurrencyPay project with React, Redux Sagas
+CurrencyPay Developer Portal - guided a graduate on the production and development of a static website to show off developer APIs.
 
 
 __Salmon__ : __October 2018 - December 2018__
 
-As a contractor at Salmon I am helping migrate a Dutch fitness companies website to SAP Hybris. Other tasks include refactoring and trying to move the product and tech stack into 2019.
-    
-*Tech stack: 2013-esque tech stack consisting of SAP Hybris, JSTL, JSP, LESS, jQuery*
+Developed a website for a Dutch fitness company on SAP Hybris and spent time bringing the project into 2019 from 2010.
+
 
 __Excelian Ltd__ : *Senior Consultant* __November 2017 - August 2018__
 
-As a Senior Consultant at Excelian, I worked with Angular 5 and React, with Typescript in an 'enterprise' environment. I was outsourced to companies such as Nordea and IHS Markit for various projects to offer expertise when the clients either lacked the capacity entirely or needed the additional resource. 
+Nordea - Housekeeping for a Swedish bank, TypeScript, Angular2 -> Angular5 upgrade, RxJS, React, MobX, Redux, d3, SinonJS
 
-*Tech stack: TypeScript, Angular2, Angular5, RxJS, React, MobX, some Redux, d3,  Bootstrap 4, SASS, Jest, SinonJS*
 
------
-
-### Full Employment History
 __WME-IMG / IMG Gaming__ : *Front-End Developer* __April 2017 - November 2017__
 
-Rejoined the IMG DGE team, a year after the DGE project was acquired from Livestream. The role now includes various data-driven projects involving real-time sports.
-
-In parallel to this, I was working with the team who started a white label pay-per-view platform for sports (EPL, UFC) and TV services (S Sport, Turkey).
-
-*Tech stack: Vanilla JS, AngularJS, MySQL, React, AWS, SASS, Mocha/Karma*
+IMG DDE - Continuation from the Livestream gig (below), Vanilla JS, AngularJS, MySQL, React, AWS, SASS, Mocha/Karma
 
 
 __FIS Global / SunGard Financial Systems__ : *UX/JavaScript Developer* __July 2014 - March 2017__
 
-Kicked off the re-design and development of APT EnterpriseUI -  part of a suite of Risk Management offerings from the Buy-Side AM area of FIS. Clients include HSBC, Aberdeen AM, RailPen, and more.
-
-I worked on the full stack. KendoUI and Angular on the front-end. NodeJS (SailsJS) Socket.IO, RabbitMQ, MySQL on the server side. WebDriverIO and Bamboo for testing.
-
-*Tech stack: Vanilla JS, SailsJS, Node, MySQL, AngularJS, KendoUI, ChartJS, LESS, RabbitMQ, IDP Implementation, Mocha/Karma*
-
+APT Enterprise - Risk Management suite, full stack. KendoUI and Angular on the front-end. NodeJS (SailsJS) Socket.IO, RabbitMQ, MySQL on the server side. WebDriverIO and Bamboo for testing.
 
 __TOAD__ : *Contract Lead Front-End Developer* __June 2014 - March 2015__
 
-Worked on Global {M} website. Built the MVP of a peer-to-peer accumulator style sports gambling application called Play Steak. This was eventually renamed to Goalmouth.
+Global {M} Recruitment Website
+Goalmouth
 
 *Tech stack: Vanilla JS, Node, MySQL, Enetpulse (WME IMG DDE), AngularJS, LESS*
 
 
 __Livestream__ : *Dev lead & Front-End Developer* __July 2013 - June 2014__
-
-Worked with IMG to build a Digital Gaming Exchange (DGE) where broadcasters and sports gambling services could purchase rights to individual sports games. Built on Google App Engine, using Angular, d3 and lots of real-time data with PubNub. Spent time working in Ukraine in company hackathons and managing a globally distributed team.
-
 *Tech stack: Vanilla JS, Node, MySQL, Google App Engine, d3, AngularJS, LESS, Bootstrap*
 
 
 __Reactive__ : *Permanent Senior Front-End Developer* __February 2013 - July 2013__
-
-Projects: Tesco Real Food, BA High Life, BA Business Life, Newsgator.com, Intelligent Energy UP (portable hydrogen fuel cell). Other duties include liaising with the Managing Director directly to find, interview, and shortlist new developers. Shortly after joining Reactive I was headhunted to join Livestream.
-
 *Tech stack: Vanilla JS, .NET Environment, LESS*
 
 
@@ -111,12 +97,10 @@ Worked at various companies while I was contracting, doing full site builds for 
 
 
 __Iris Digital__ : *Permanent Front-End Developer* __January 2010 - August 2011__
-
 Various projects for Sony Ericsson, Volkswagen, Unilever and others
 
 
 __Candi__ : *Permanent Junior Front-End Developer* __June 2008 - December 2009__
-
 Morrisons, John Lewis Fashion launch
 
 
