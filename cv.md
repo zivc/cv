@@ -12,16 +12,21 @@ Experienced front-end developer based in SE London. Available for either remote 
 
 ### Current Positions
 
-__Amido__ : *Consultant* __March 2021 - June 2021__
+__Spotlight Sports Group__ : *Consultant* __September 2021 - Present__
 
-The Gym Group - Project kick off discovery phase with Amplience CMS and Next.js  
-Hackney.gov.uk - Single SPA micro-services front-end with React
-
+Introduced new features on two neglected brands, MyRacing and FreeSuperTips.
+Both sites had heavy uses of React and Next.JS.
 
 -----
 
 
 ### Previous Positions
+
+
+__Amido__ : *Consultant* __March 2021 - June 2021__
+
+The Gym Group - Project kick off discovery phase with Amplience CMS and Next.js  
+Hackney.gov.uk - Single SPA micro-services front-end with React
 
 
 __JP Morgan & Chase__ : *UI/UX Developer* __January 2020 - December 2020__
