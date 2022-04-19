@@ -22,5 +22,8 @@
   },
   "husky": {
     "pre-commit": "cp cv.md .github/README.md && git add .github/README.md"
+  },
+  "dependencies": {
+    "sentry-expo": "^4.0.3"
   }
 }
